@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html class="no-js" lang="zxx">
    <head>
       <meta charset="utf-8">
@@ -28,14 +28,15 @@
       <link rel="stylesheet" href="assets/css/flaticon.css">
       <link rel="stylesheet" href="assets/css/spacing.css">
       <link rel="stylesheet" href="assets/css/main.css">
-
-         
+      
+      
      <style>
         html, body {
     max-width: 100%;
     overflow-x: hidden;
 }
     </style>
+      
    </head>
    <body>
       <!--[if lte IE 9]>
@@ -96,8 +97,8 @@
             <div class="offcanvas__content">
                <div class="offcanvas__top mb-50 d-flex justify-content-between align-items-center">
                   <div class="offcanvas__logo logo">
-                     <a href="index.html">
-                        <img src="assets/img//logo.png" style="height:100px;width:100%" alt="logo">
+                     <a href="#">
+                      <img src="assets/img//logo.png" style="height:100px;width:100%" alt="logo">
                      </a>
                   </div>
                </div>
@@ -111,7 +112,7 @@
                         <i class="fa-sharp fa-solid fa-location-dot"></i>
                      </div>
                      <div class="offcanvas__contact-content-content">
-                        <a href="https://www.google.com/maps/search/86+Road+Broklyn+Street,+600+New+York,+USA/@40.6897806,-74.0278086,12z/data=!3m1!4b1">Office No.1, Shree Siddhivinayak Commerical Complex, Sector-10, Airoli, Navi Mumbai - 400708 </a>
+                       <a href="#">Office No.1, Shree Siddhivinayak Commerical Complex, Sector-10, Airoli, Navi Mumbai - 400708 </a>
                      </div>
                   </div>
                   <div class="offcanvas__contact-content d-flex">
@@ -127,15 +128,14 @@
                         <i class="fa-solid fa-phone"></i>
                      </div>
                      <div class="offcanvas__contact-content-content">
-                        <a href="tel:919867044115">+91 9867044115</a>
+                        <a href="#">+919892255044 +919892255040</a>
                      </div>
                   </div>
                </div>
                <div class="offcanvas__social">
-                  <a class="icon facebook" href="#"><i class="fab fa-facebook-f"></i></a>
-                  <a class="icon twitter" href="#"><i class="fab fa-twitter"></i></a>
+              
                   <a class="icon youtube" href="#"><i class="fab fa-youtube"></i></a>
-                  <a class="icon linkedin" href="#"><i class="fab fa-linkedin"></i></a>
+                  <a class="icon linkedin" href="https://www.linkedin.com/company/universe-capital/"><i class="fab fa-linkedin"></i></a>
                </div>
             </div>
          </div>
@@ -149,21 +149,17 @@
          <div class="tp-header-box p-relative">
             <div class="tp-header-logo p-relative">
                <span class="tp-header-logo-bg"></span>
-               <a href="index.html">
+               <a href="#">
                   <img src="assets/img/logo.png" style="width:100%;height:100%;margin:10px;" alt="">
                </a>
             </div>
             <div class="tp-header-wrapper-inner header__sticky p-relative">
                <div class="tp-header-top d-none d-xl-flex">
-                  <div class="tp-header-top-info">
-                     <a href="https://www.google.com/maps/search/6391+Elgin+St,+Wilmington,+DE,+USA/@39.7298967,-75.5645038,13z/data=!3m1!4b1" target="_blank"><span><i class="fa-sharp fa-solid fa-location-dot"></i></span>Office No.1, Shree Siddhivinayak Commerical Complex, Sector-10, Airoli, Navi Mumbai - 400708</a>
-                  </div>
+                  
                   <div class="tp-header-top-right d-flex justify-content-end align-items-center">
                      <div class="header-social ">
-                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                        <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                        <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                        <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                    
+                        <a href="https://www.linkedin.com/company/universe-capital/"><i class="fa-brands fa-linkedin"></i></a>
                      </div>
                   </div>
                </div>
@@ -171,13 +167,13 @@
                   <div class="tp-main-menu d-none d-xl-block">
                      <nav class="tp-main-menu-content">
                         <ul>
-                           <li><a href="index.html">Home</a></li>
-                           <li><a href="#about">About Us</a></li>
-                           <li><a href="#who">Who we are</a></li>
-                           <li><a href="#services">Services</a></li>
-                           <li><a href="#whyus">Why Us</a></li>
-                           <li><a href="#features">Features</a></li>
-                           <li><a href="#contact">Contact</a></li>
+                           <li><a href="https://universecapital.in">Home</a></li>
+                           <li><a target="_blank" href="https://universecapital.in/#about">About Us</a></li>
+                           <li><a target="_blank" href="https://universecapital.in/#who">Who we are</a></li>
+                           <li><a target="_blank" href="https://universecapital.in/#services">Services</a></li>
+                           <li><a target="_blank" href="https://universecapital.in/#whyus">Why Us</a></li>
+                           <li><a target="_blank" href="https://universecapital.in/#features">Features</a></li>
+                           <li><a target="_blank" href="https://universecapital.in/#contact">Contact</a></li>
                         </ul>
                      </nav>
                   </div>
@@ -192,7 +188,7 @@
                            </div>
                            <div class="tp-header-contact-content">
                               <p>Get in Touch:</p>
-                              <span><a href="tel:555-0111">+91 9867044115</a></span>
+                              <span><a href="#">+919892255044 +919892255040</a></span>
                            </div>
                         </div>
                      </div>
@@ -218,7 +214,7 @@
                <div class="row align-items-center">
                   <div class="col-xl-3 col-6">
                      <div class="tp-header-logo-2 p-relative">
-                        <a href="index.html">
+                        <a href="#">
                            <img src="assets/img/logo.png" style="width:70%;height:70%;margin:10px;" alt="">
                         </a>
                      </div>
@@ -248,7 +244,7 @@
                               </div>
                               <div class="tp-header-contact-content">
                                  <p>Get in Touch:</p>
-                                 <span><a href="tel:919867044115">+91 9867044115</a></span>
+                                 <span><a href="#">+919892255044 +919892255040</a></span>
                               </div>
                            </div>
                         </div>
@@ -282,11 +278,11 @@
                                     <div class="tp-hero-title-wrapper">
                                       
                                        <h2 class="tp-hero-title">About Universe Capital</h2>
-                                       <p>Universe Capital is India’s latest impartial loan advisor for finest deals in loans and incomparable advisory services. We are one stop shop for all types of lending solutions in NBFC’s, SME’s ,Mid Corporate, Real Estate , Green Financing (Renewable Energy Sector), and ESG Reporting Advisory service & Equity .</p>
+                                       <p>Universe Capital is India’s latest impartial loan advisor for finest deals in loans and incomparable advisory services. We are one stop shop for all types of lending solutions in NBFC’s, SME’s, Mid Corporate, Real Estate, Green Financing (Renewable Energy Sector), and ESG Reporting Advisory service & Equity .</p>
                                     </div>
                                     <div class="tp-hero-button-wrapper d-flex flex-wrap align-items-center">
                                        <div class="tp-hero-btn mr-30">
-                                          <a class="tp-btn" href="#contact">Get Started <span><i class="fa-regular fa-plus"></i></span></a>
+                                          <a class="tp-btn" href="Universe-Capital-Brouchure.pdf">Download Brochure</a>
                                        </div>
                                        <div class="tp-hero-call d-flex align-items-center">
                                          <span>
@@ -312,7 +308,7 @@
                                          </span>
                                          <div class="tp-hero-call-inner">
                                           <p>Need help?</p>
-                                          <span><a href="tel:919867044115">+91 9867044115</a></span>
+                                          <span><a href="#">+919892255044 +919892255040</a></span>
                                          </div>
                                        </div>
                                     </div>
@@ -344,7 +340,7 @@
                                     </div>
                                     <div class="tp-hero-button-wrapper d-flex flex-wrap align-items-center">
                                        <div class="tp-hero-btn mr-30">
-                                          <a class="tp-btn" href="#contact">Get Started <span><i class="fa-regular fa-plus"></i></span></a>
+                                           <a class="tp-btn" href="Universe-Capital-Brouchure.pdf">Download Brochure</a>
                                        </div>
                                        <div class="tp-hero-call d-flex align-items-center">
                                          <span>
@@ -370,7 +366,7 @@
                                          </span>
                                          <div class="tp-hero-call-inner">
                                           <p>Need help?</p>
-                                          <span><a href="tel:919867044115">+91 9867044115</a></span>
+                                          <span><a href="#">+919892255044 +919892255040</a></span>
                                          </div>
                                        </div>
                                     </div>
@@ -402,7 +398,7 @@
                                     </div>
                                     <div class="tp-hero-button-wrapper d-flex flex-wrap align-items-center">
                                        <div class="tp-hero-btn mr-30">
-                                          <a class="tp-btn" href="#contact">Get Started <span><i class="fa-regular fa-plus"></i></span></a>
+                                          <a class="tp-btn" href="Universe-Capital-Brouchure.pdf">Download Brochure</a>
                                        </div>
                                        <div class="tp-hero-call d-flex align-items-center">
                                          <span>
@@ -428,7 +424,7 @@
                                          </span>
                                          <div class="tp-hero-call-inner">
                                           <p>Need help?</p>
-                                          <span><a href="tel:5550111">(808) 555-0111</a></span>
+                                    <span><a href="#">+919892255044 +919892255040</a></span>
                                          </div>
                                        </div>
                                     </div>
@@ -485,7 +481,7 @@
                            <span class="tp-section-title-pre">ABOUT US</span>
                            <h3 style="font-size:26px;font-weight:bold;">Comprehensive Loan Advisor for Optimal Lending Solutions in India</h3>
                         </div>
-                        <p style="text-align:justify;">Universe Capital is India’s latest impartial loan advisor for finest deals in loans and incomparable advisory services. We are one stop shop for all types of lending solutions in <b>NBFC’s, SME’s ,Mid Corporate, Real Estate , Green Financing (Renewable Energy Sector)</b>, and <b>ESG Reporting Advisory service & Equity</b>.We manage the entire borrowing process for clients, starting by supporting our clients to choose the right product from the appropriate lending organization, till the time, the entire loan is disbursed and continue servicing in ongoing basis.</p>
+                        <p >Universe Capital is India’s latest impartial loan advisor for finest deals in loans and incomparable advisory services. We are one stop shop for all types of lending solutions in <b>NBFC’s, SME’s, Mid Corporate, Real Estate, Green Financing (Renewable Energy Sector)</b>, and <b>ESG Reporting Advisory service & Equity</b>.We manage the entire borrowing process for clients, starting by supporting our clients to choose the right product from the appropriate lending organization, till the time, the entire loan is disbursed and continue servicing in ongoing basis.</p>
                         <div class="tp-about-wrapper-list">
                            <ul>
                               <li><span><i class="fa-regular fa-circle"></i></span> Method to Madness</li>
@@ -495,7 +491,7 @@
                            </ul>
                         </div>
                         <div class="tp-about-btn">
-                           <a class="tp-btn" href="about.html">Contact Us <span><i class="fa-regular fa-plus"></i></span></a>
+                           <a class="tp-btn" href="#">Contact Us <span><i class="fa-regular fa-plus"></i></span></a>
                         </div>
                      </div>
                   </div>
@@ -513,7 +509,14 @@
                   <div class="tp-process-title mb-40">
                      <center>
                      <span class="tp-section-title-pre">Who We Are ?</span>
-                     <p style="font-size: 19px;text-align: justify; letter-spacing:normal;">With combined 50 years of banking experience among them, the management at Capital comprises of pragmatic visionaries who wanted to create a company which delivers “the right experience” to its clients.<br>Universe Capital deals with various NBFC’s, SMEs, Mid-Corporate Clients and aims to provide Structured financing solutions to satisfy their Capital and Growth financing needs. We act as an Advisor & Arranger and raise Funds through various types of Debt Instruments. Through our extensive network of associate Banks, Small Finance Bank Foreign Bank , PSU Bank and NBFCs, we facilitate the raising of funds in both rupee and foreign currency.</p></center>
+                     
+                      <blockquote>
+                                 <p style="text-align: justify; letter-spacing:normal;font-size:16px;line-height:28px'">With combined 50 years of banking experience among them, the management at Capital comprises of pragmatic visionaries who wanted to create a company which delivers “the right experience” to its clients.<br>Universe Capital deals with various NBFC’s, SMEs, Mid-Corporate Clients and aims to provide Structured financing solutions to satisfy their Capital and Growth financing needs. We act as an Advisor & Arranger and raise Funds through various types of Debt Instruments. Through our extensive network of associate Banks, Small Finance Bank Foreign Bank , PSU Bank and NBFCs, we facilitate the raising of funds in both rupee and foreign currency.</p>
+                                 <img src="assets/img/blog/blog-details/quote.png" alt="">
+                              </blockquote>
+                              
+                   
+                     </center>
                   </div>
                </div>
 
@@ -563,7 +566,7 @@
                            </div>
                            <div class="tp-process-item-content">
                        
-                              <p>We have established relationship for raising capital for our growing clients. Financial Root Consultant raising engagements mainly involve financing amounts ranging from about Rs.1 Crore to about Rs.500 Crore.</p>
+                              <p>We have established relationship for raising capital for our growing clients. Universe Capital raising engagements mainly involve financing amounts ranging from about Rs.1 Crore to about Rs.500 Crore.</p>
                            </div>
                         </div>
 
@@ -643,7 +646,7 @@
                               </div>
                               <div class="tp-service-item-content">
                                  <h4 class="tp-service-item-title"><a href="#">Senior Involvement</a></h4>
-                                 <p>Senior Professional Involvement: Personal Commitment to Your Project</p>
+                                 <p>Senior Professional Involvement: Personal Commitment to Your Debt and Equity Requirement</p>
                               </div>
                               <div class="tp-service-item-thumb">
                                  <a href="#"><img src="assets/img/service/img-5.jpg" alt=""></a>
@@ -1257,7 +1260,7 @@
                               </div>
                               <div class="tp-service-item-content">
                                  <h4 class="tp-service-item-title"><a href="#">Client Ambition</a></h4>
-                                 <p>We are ambitious for ourselves and for our clients and we conduct business with a strong sense of duty from onboarding the client till disbursement</p>
+                                 <p>We are ambitious for ourselves and our clients, conducting business with a strong sense of duty from onboarding the client to disbursement.</p>
                               </div>
                               <div class="tp-service-item-thumb">
                                  <a href="#"><img src="assets/img/service/img-9.jpg" alt=""></a>
@@ -1403,7 +1406,7 @@
                                  <img src="assets/img/service/service-details/icon-2.svg" alt="">
                               </div>
                               <div class="tp-service-details-content">
-                                 <h3 class="tp-service-details-subtitle">Delivary Customer</h3>
+                                 <h3 class="tp-service-details-subtitle">Professional Outreach</h3>
                                  <p>Extensive Network of Investors: Our established presence in the market has allowed us to cultivate strong connections with financial institutions. These relationships, combined with our knowledge arbitrage of different industries, enable us to provide pioneering debt solutions. </p>
                               </div>
                            </div>
@@ -1422,12 +1425,15 @@
                   <div class="col-lg-12">
                      <div class="tp-service-details-box-2 d-flex mb-0">
                         <div class="tp-service-details-box-content mr-30">
-                           <h3 class="tp-service-details-subtitle-2">Wide Range of Offerings: We provide comprehensive debt syndication services covering a range of financing needs, including:</h3>
+                           <h3 class="tp-service-details-subtitle-2">Wide Range of Offerings:</h3>
 
-                           <div class="tp-project-details-list">
+                   <div class="tp-project-details-list">
                             
                            <ul>
-                          
+                           <li>
+                              <span class="tp-project-details-list-title"><i class="fa-solid fa-check"></i>NBFC’S Funding Requirement</span>
+                              <p>Arranging fund from PSU Banks, Private Banks, SFB, NBFC for lending.</p>
+                           </li>
                            <li>
                               <span class="tp-project-details-list-title"><i class="fa-solid fa-check"></i> Project Finance</span>
                               <p>Funding for long-term infrastructure or capital-intensive projects.
@@ -1438,16 +1444,9 @@
                               <p>Tailored solutions to manage day-to-day operational cash flow.
 </p>
                            </li>
-                           <li>
-                              <span class="tp-project-details-list-title"><i class="fa-solid fa-check"></i> Structured Financing</span>
-                              <p>Customized debt solutions designed to meet specific business requirements</p>
-                           </li>
+                       
 
-                           <li>
-                              <span class="tp-project-details-list-title"><i class="fa-solid fa-check"></i> Promoter Funding</span>
-                              <p>Assistance in raising funds for business promoters or shareholders.
-</p>
-                           </li>
+                        
 
                            <li>
                               <span class="tp-project-details-list-title"><i class="fa-solid fa-check"></i> Co-Lending/BC Arrangement</span>
@@ -1461,17 +1460,22 @@
 
 </p>
                            </li>
-                           <li>
-                              <span class="tp-project-details-list-title"><i class="fa-solid fa-check"></i>NBFC’S Funding Requirement</span>
-                              <p>Arranging a fund from PSU Banks, Private Banks ,SFB, NBFC for onward lending purpose.</p>
-                           </li>
+                          
 
+                           <li>
+                              <span class="tp-project-details-list-title"><i class="fa-solid fa-check"></i> Green Financing</span>
+                              <p>Lenders are increasingly making more green finance available and accessible to fund green projects such as wind and solar farms and EV value chain ,UC is helping both lender and borrower to invest in businesses themselves to help them become greener
+
+</p>
+                           </li>
+                          
 
                         </ul>
                         </div>
-
-
-
+                        
+                        
+                        
+                        
                         
                         </div>
                       
@@ -1533,12 +1537,12 @@
                               <div class="accordion-item">
                                  <h2 class="accordion-header" id="headingsix">
                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsesix" aria-expanded="false" aria-controls="collapsesix">
-                                     Comprehensive knowledge of lending norms
+                                	Sound understanding of the need of lenders
                                    </button>
                                  </h2>
                                  <div id="collapsesix" class="accordion-collapse collapse" aria-labelledby="headingsix" data-bs-parent="#general_accordion-2">
                                    <div class="accordion-body">
-                                     <p>Since its inception, Universe Capital has been working closely with most industries. The long association with various industries has enabled us to develop core competencies across industry domains.</p>
+                                     <p>While providing comprehensive services for <a href="https://www.resurgentindia.com/is-debt-syndication-the-way-forward-for-borrowers-availing-large-ticket-loans">Debt Syndication</a> we examine all factors of industry, economy, and business. Intensive provides support services like Structuring and important evaluation of the short, medium, or future financial requirement.</p>
                                    </div>
                                  </div>
                                </div>
@@ -1601,7 +1605,7 @@
                                 </h2>
                                 <div id="collapseseven" class="accordion-collapse collapse" aria-labelledby="headingseven" data-bs-parent="#general_accordion-2">
                                   <div class="accordion-body">
-                                    <p>Universe Capital Limited is one of the leading organizations in the  <a href="https://www.resurgentindia.com/is-debt-syndication-the-way-forward-for-borrowers-availing-large-ticket-loans" target="_blank">Debt Syndication</a> market in India with strong relationships with financial institutions, banks and NBFCs, mutual funds, and insurance companies both in India and globally for cross-border transactions. Our management excels in domain knowledge, capital syndication alternatives with remarkable transactions execution capabilities have a network with leading private equity funds, banks & financial institutions both in India and Globally./p>
+                                    <p>Universe Capital Limited is one of the leading organizations in the  <a href="https://www.resurgentindia.com/is-debt-syndication-the-way-forward-for-borrowers-availing-large-ticket-loans" target="_blank">Debt Syndication</a> market in India with strong relationships with financial institutions, banks and NBFCs, mutual funds, and insurance companies both in India and globally for cross-border transactions. Our management excels in domain knowledge, capital syndication alternatives with remarkable transactions execution capabilities have a network with leading private equity funds, banks & financial institutions both in India and Globally.</p>
                                   </div>
                                 </div>
                               </div>
@@ -1626,9 +1630,8 @@
             <div class="container">
                <div class="tp-contact-breadcrumb-box">
                   <div class="tp-contact-breadcrumb-social">
-                     <a href="#"><i class="fab fa-facebook-f"></i></a>
-                     <a href="#"><i class="fab fa-twitter"></i></a>
-                     <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                  <a class="icon youtube" href="#"><i class="fab fa-youtube"></i></a>
+                  <a class="icon linkedin" href="https://www.linkedin.com/company/universe-capital/"><i class="fab fa-linkedin"></i></a>
                   </div>
                   <div class="row">
                      <div class="col-lg-7">
@@ -1701,8 +1704,8 @@
                               </div>
                               <div class="tp-contact-breadcrumb-item-content">
                                  <h3 class="tp-contact-breadcrumb-item-title">Mail Us</h3>
-                                 <a href="mail:Mrdubey@outlook.com" >Mrdubey@outlook.com</a>
-                                 <a href="mail:founder@universecapital.com" >founder@universecapital.com</a>
+                                 <a href="mail:syndication@universecapital.in" >syndication@universecapital.in</a>
+                                 <a href="mail:founder@universecapital.in" >founder@universecapital.in</a>
                               </div>
                            </div>
 
@@ -1712,7 +1715,7 @@
                               </div>
                               <div class="tp-contact-breadcrumb-item-content">
                                  <h3 class="tp-contact-breadcrumb-item-title">Telephone</h3> 
-                                 <a href="tel:919867044115">+91 9867044115</a>
+                                 <a href="#">+919892255044 +919892255040</a>
                               
                               </div>
                            </div>
@@ -1986,12 +1989,11 @@
                               <img src="assets/img/logo.png" style="width:50%;height:50%;margin:10px;" alt="">
                            </div>
                            <div class="tp-footer-widget-content">
-                              <p>Universe Capital is India’s latest impartial loan advisor for finest deals in loans and incomparable advisory services. We are one stop shop for all types of lending solutions in NBFC’s, SME’s ,Mid Corporate, Real Estate , Green Financing (Renewable Energy Sector), and ESG Reporting Advisory service & Equity </p>
+                              <p>Universe Capital is India’s latest impartial loan advisor for finest deals in loans and incomparable advisory services. We are one stop shop for all types of lending solutions in NBFC’s, SME’s, Mid Corporate, Real Estate , Green Financing (Renewable Energy Sector), and ESG Reporting Advisory service & Equity </p>
+                              
                               <div class="tp-footer-widget-social">
-                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                 <a href="#"><i class="fab fa-twitter"></i></a>
-                                 <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                 <a href="#"><i class="fa-brands fa-pinterest"></i></a>
+                              <a class="icon youtube" href="#"><i class="fab fa-youtube"></i></a>
+                  <a class="icon linkedin" href="https://www.linkedin.com/company/universe-capital/"><i class="fab fa-linkedin"></i></a>
                               </div>
                            </div>
                         </div>
@@ -2036,9 +2038,15 @@
                                     <a href="https://www.google.com/maps" target="_blank"><i class="fa-sharp fa-solid fa-location-dot"></i> Office No.1, Shree Siddhivinayak Commerical Complex, Sector-10, Airoli, Navi Mumbai - 400708 </a>
                                  </div>
                                  <div class="tp-footer-widget-contact-inner">
-                                    <a href="tel:123456765"><i class="fa-solid fa-phone"></i> 
-                                    +91 9867044115</a>
+                                    <a href="tel:919892255044"><i class="fa-solid fa-phone"></i> 
+                                    +919892255044</a>
+                                   
                                  </div>
+                              
+                               <div class="tp-footer-widget-contact-inner">
+                                    <a href="tel:919892255044"><i class="fa-solid fa-phone"></i> 
+                                    +919892255040</a>
+                                      
                               
                               </div>
                            </div>

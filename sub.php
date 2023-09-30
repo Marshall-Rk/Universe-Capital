@@ -8,7 +8,7 @@ $email= stripslashes($_POST['email']);
 $email = mysqli_real_escape_string($link, $email);
 
 
-$sql = "INSERT INTO contact(name,email,phone) VALUES('".$name."','".$email."','".$_POST['phone']."')";
+$sql = "INSERT INTO u888028791_universe(name,email,phone) VALUES('".$name."','".$email."','".$_POST['phone']."')";
 if ($link->query($sql) === TRUE)
 {
 echo '<script type="text/javascript">'; 
